@@ -19,7 +19,7 @@ setup(
         'Pillow==4.3.0',
         'pygame==1.9.3',
         'PyYAML==4.2b1',
-        'redis==2.10.6',
+        'redis==4.4.4',
         'rospkg==1.1.7',
         'scipy==0.19.0',
         'tensorflow==1.12.2',
