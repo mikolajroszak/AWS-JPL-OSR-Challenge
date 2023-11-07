@@ -21,7 +21,7 @@ setup(
         'PyYAML==4.2b1',
         'redis==2.10.6',
         'rospkg==1.1.7',
-        'scipy==0.19.0',
+        'scipy==1.10.0',
         'tensorflow==1.12.2',
         'rl-coach-slim==0.11.1',
     ],
